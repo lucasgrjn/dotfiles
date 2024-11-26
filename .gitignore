@@ -1,0 +1,7 @@
+# Misc
+*.json
+
+# Mac generated files
+.DS_Store
+.Trashes
+.vscode
