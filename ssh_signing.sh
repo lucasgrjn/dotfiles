@@ -25,3 +25,6 @@ git config --global gpg.format ssh
 
 # Set the SSH key as the signing key
 git config --global user.signingkey ~/.ssh/id_ed25519_signing.pub
+
+# Sign commit by default
+git config --global commit.gpgsign true
